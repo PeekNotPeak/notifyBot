@@ -1,7 +1,6 @@
-from datetime import datetime
 import json
+from datetime import datetime
 
-import nextcord
 import requests as requests
 
 with open("config.json") as config_file:
