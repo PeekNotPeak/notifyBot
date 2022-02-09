@@ -1,0 +1,12 @@
+{
+    "client_id": "", 
+    "client_secret": "",
+    "access_token": "", 
+    "watchlist": [
+        "streamer1",
+        "streamer2",
+        "streamer3"
+    ],
+    "discord_token": "", 
+    "channel_id": ""
+}
